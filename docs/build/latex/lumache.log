@@ -1,0 +1,66 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.11)  25 FEB 2025 22:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lumache.tex
+(./lumache.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(./sphinxmanual.cls
+Document Class: sphinxmanual 2019/12/01 v2.3.0 Document class (Sphinx manual)
+(c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
+(c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+LaTeX Info: Redefining \and on input line 35.
+) (c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+2500 (decimal 9472)
+   defining Unicode char U+2502 (decimal 9474)
+   defining Unicode char U+2514 (decimal 9492)
+   defining Unicode char U+251C (decimal 9500)
+   defining Unicode char U+2572 (decimal 9586)
+
+
+! LaTeX Error: File `cmap.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: X
+
+! Emergency stop.
+<read *> 
+         
+l.33 \usepackage
+                [T1]{fontenc}
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 341 strings out of 475538
+ 5055 string characters out of 5775358
+ 382410 words of memory out of 5000000
+ 23070 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 49i,0n,52p,148b,36s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

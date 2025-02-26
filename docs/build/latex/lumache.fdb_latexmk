@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1740543752.2151 "lumache.tex" "lumache.pdf" "lumache" 1740543772.61241 2
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty" 1728700740 5048 7ebf0f2edf1ef6783e8fe2201a95d0e8 ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/report.cls" 1728700740 23203 02a38c89d2f3aef55ce8b1288a372bbb ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo" 1728700740 8448 358bf3de18513f057a13bdc6e6770c41 ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty" 1728700741 2846 50113a9b2387b6447504672739a4a25b ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty" 1728700741 220493 bbff330ab3155b3f5df1de2445e80c9f ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-dist/web2c/texmf.cnf" 1728700741 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1728700741 1901298 287544b6be45099986b77f64eb2a8263 ""
+  "c:/Users/rhuer/AppData/Roaming/TinyTeX/texmf.cnf" 1728700753 956 26ec9cd9a5edcbea822f9dddc1187176 ""
+  "cmap.sty" 0 -1 0 ""
+  "lumache.aux" 1740543752 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "lumache.tex" 1740543751 2661 13522567f9c2a544f28b6f1c7003a61f ""
+  "sphinx.sty" 1740543147 54203 ee7fe875437470f5328ee20661bb9f1d ""
+  "sphinxmanual.cls" 1740543147 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
+  (generated)
+  "lumache.aux"
+  "lumache.log"
+  "lumache.pdf"
+  (rewritten before read)
